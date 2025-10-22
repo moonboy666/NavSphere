@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1761127235746",
+      "title": "老婆喜欢的",
+      "icon": "Heart",
+      "description": "这是我老婆喜欢的内容",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1307,15 +1316,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1761127235746",
-      "title": "老婆喜欢的",
-      "icon": "Heart",
-      "description": "这是我老婆喜欢的内容",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
